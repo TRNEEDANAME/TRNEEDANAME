@@ -1,9 +1,9 @@
-# 
+# Welcome to my GitHub page !
+
+## What am I doing
+
+- I am a self-taught developper making mods and games. I write mostly in C++ and C#
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=TRNEEDANAME&fontSize=90)
-
-
-#### Contact information
-- I can be contacted on <a href="https://www.discord.com/"><img height="50" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
+### Contact
+- You can contact me on [Discord](discordapp.com/users/374192258880110632)
