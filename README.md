@@ -5,5 +5,5 @@
 
 
 #### Contact information
-
-- I can be contacted on ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+- I can be contacted on <a href="https://www.discord.com/"><img height="50" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
