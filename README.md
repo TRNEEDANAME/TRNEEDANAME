@@ -6,4 +6,4 @@
 
 
 ### Contact
-- You can contact me on [Discord](discordapp.com/users/374192258880110632)
+- You can contact me on [Discord](https://discordapp.com/users/374192258880110632)
