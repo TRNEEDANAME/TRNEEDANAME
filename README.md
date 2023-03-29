@@ -2,7 +2,7 @@
 
 ## What am I doing
 
-- I am a self-taught developper making mods and games. I write mostly in C++ and C#
+- I am a self-taught developper making mods and games. I write mostly in C++ (Unreal Script 3) and C# (Unity)
 
 
 ### Contact
