@@ -7,4 +7,4 @@
 
 ### Contact
 - You can contact me on GitHub or send me an email at trneedaname@proton.me.
-- I am also on the Xcom 2 Modding Discord (same username) or via Steam
+- I am also on the Xcom 2 Modding Discord (same username) or I'm also on Steam
